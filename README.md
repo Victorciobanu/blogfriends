@@ -1,0 +1,2 @@
+# blogfriends
+A blog
